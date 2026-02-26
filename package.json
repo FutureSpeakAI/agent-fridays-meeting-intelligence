@@ -1,0 +1,40 @@
+{
+  "name": "meeting-intelligence",
+  "version": "1.0.0",
+  "description": "Full meeting lifecycle management for AI agents — state machine, live notes, post-meeting summarization, attendee intelligence, and context injection.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "meeting",
+    "meetings",
+    "intelligence",
+    "notes",
+    "transcription",
+    "summarization",
+    "calendar",
+    "lifecycle",
+    "state-machine",
+    "agi"
+  ],
+  "author": "FutureSpeak.AI <hello@futurespeak.ai> (https://futurespeak.ai)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FutureSpeakAI/meeting-intelligence.git"
+  },
+  "homepage": "https://github.com/FutureSpeakAI/meeting-intelligence",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "files": [
+    "dist",
+    "LICENSE",
+    "README.md"
+  ]
+}
