@@ -19,8 +19,7 @@
     "summarization",
     "calendar",
     "lifecycle",
-    "state-machine",
-    "agi"
+    "state-machine"
   ],
   "author": "FutureSpeak.AI <hello@futurespeak.ai> (https://futurespeak.ai)",
   "license": "MIT",
