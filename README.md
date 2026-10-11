@@ -1,3 +1,5 @@
+> **This project now lives on in [Agent-Friday](https://github.com/FutureSpeakAI/Agent-Friday), archived 2026-10-11.**
+
 # meeting-intelligence
 
 > Full meeting lifecycle management for AI agents — state machine, live notes, post-meeting summarization, attendee intelligence, and context injection.
